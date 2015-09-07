@@ -1,0 +1,4 @@
+WELCOME TO LABOR DAY WEEKEND
+I'm practicing Git at the office.
+Don't forget cat and ">" is the file creation command.
+Control + D exits CAT:i
